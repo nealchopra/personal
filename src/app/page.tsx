@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="max-w-xl mx-auto px-6 py-16 min-h-screen">
@@ -13,7 +11,7 @@ export default function Home() {
 
           <div className="space-y-6 text-zinc-600 font-[450] text-sm">
             <p>
-              I'm currently building{" "}
+              I&apos;m currently building{" "}
               <a href="https://pointer.so" className="text-zinc-800">
                 Pointer
               </a>{" "}
